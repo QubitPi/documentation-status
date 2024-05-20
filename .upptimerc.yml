@@ -10,7 +10,7 @@ sites:
     url: https://screwdriver-cd-python-sdk.readthedocs.io/en/latest/
   - name: Redux Toolkit
     url: https://redux-toolkit.qubitpi.org/
-  - name: Apollo GraphQL Documentation
+  - name: Apollo GraphQL
     url: https://apollographql.qubitpi.org/
 
 status-website:
