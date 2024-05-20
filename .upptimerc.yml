@@ -8,6 +8,8 @@ sites:
     url: https://hashicorp-aws.com/
   - name: Screwdriver CD Python SDK
     url: https://screwdriver-cd-python-sdk.readthedocs.io/en/latest/
+  - name: Redux Toolkit
+    url: https://redux-toolkit.qubitpi.org/
   - name: Apollo GraphQL Documentation
     url: https://apollographql.qubitpi.org/
 
