@@ -6,6 +6,8 @@ sites:
     url: https://docs.lamassu.dev/en/latest/
   - name: hashicorp-aws.com
     url: https://hashicorp-aws.com/
+  - name: DockOvpn
+    url: https://dockovpn.qubitpi.org/
   - name: Screwdriver CD Python SDK
     url: https://screwdriver-cd-python-sdk.readthedocs.io/en/latest/
   - name: Redux
