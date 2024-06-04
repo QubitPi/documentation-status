@@ -10,6 +10,8 @@ sites:
     url: https://dockovpn.qubitpi.org/
   - name: Screwdriver CD Python SDK
     url: https://screwdriver-cd-python-sdk.readthedocs.io/en/latest/
+  - name: Cypress
+    url: https://cypress.qubitpi.org/
   - name: Redux
     url: https://redux.qubitpi.org/
   - name: Redux Toolkit
