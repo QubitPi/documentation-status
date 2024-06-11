@@ -16,6 +16,8 @@ sites:
     url: https://redux.qubitpi.org/
   - name: Redux Toolkit
     url: https://redux-toolkit.qubitpi.org/
+  - name: Immer
+    url: https://immer.qubitpi.org/
   - name: Apollo GraphQL
     url: https://apollographql.qubitpi.org/
 
