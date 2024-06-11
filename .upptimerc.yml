@@ -22,6 +22,8 @@ sites:
     url: https://immer.qubitpi.org/
   - name: Apollo GraphQL
     url: https://apollographql.qubitpi.org/
+  - name: GraphQL Java
+    url: https://graphql-java.qubitpi.org/
 
 status-website:
   cname: status.qubitpi.org
