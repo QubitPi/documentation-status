@@ -14,6 +14,8 @@ sites:
     url: https://cypress.qubitpi.org/
   - name: Redux
     url: https://redux.qubitpi.org/
+  - name: React Redux
+    url: https://react-redux.qubitpi.org/
   - name: Redux Toolkit
     url: https://redux-toolkit.qubitpi.org/
   - name: Immer
