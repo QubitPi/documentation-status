@@ -24,6 +24,8 @@ sites:
     url: https://immer.qubitpi.org/
   - name: Apollo GraphQL
     url: https://apollographql.qubitpi.org/
+  - name: Inversify
+    url: https://inversify.qubitpi.org/
   - name: Logto
     url: https://logto.qubitpi.org/
   - name: GraphQL Java
