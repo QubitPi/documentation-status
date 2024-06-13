@@ -4,6 +4,8 @@ repo: documentation-status
 sites:
   - name: Lamassu Machine Learning Library
     url: https://docs.lamassu.dev/en/latest/
+  - name: MLflow
+    url: https://mlflow.qubitpi.org/
   - name: hashicorp-aws.com
     url: https://hashicorp-aws.com/
   - name: DockOvpn
