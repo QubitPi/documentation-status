@@ -15,7 +15,7 @@ sites:
   - name: Neo4j Browser
     url: https://neo4j-browser.qubitpi.org/
   - name: React
-    url: https://reactdev-qubitpis-projects.vercel.app/
+    url: https://react.qubitpi.org/
   - name: Cypress
     url: https://cypress.qubitpi.org/
   - name: Redux
