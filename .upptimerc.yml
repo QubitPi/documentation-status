@@ -14,6 +14,8 @@ sites:
     url: https://screwdriver-cd-python-sdk.readthedocs.io/en/latest/
   - name: Neo4j Browser
     url: https://neo4j-browser.qubitpi.org/
+  - name: React
+    url: https://reactdev-qubitpis-projects.vercel.app/
   - name: Cypress
     url: https://cypress.qubitpi.org/
   - name: Redux
