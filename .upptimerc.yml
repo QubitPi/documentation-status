@@ -14,6 +14,7 @@ sites:
     url: https://screwdriver-cd-python-sdk.readthedocs.io/en/latest/
   - name: Neo4j Browser
     url: https://neo4j-browser.qubitpi.org/
+    icon: https://neo4j.com/wp-content/themes/neo4jweb/favicon.ico
   - name: React
     url: https://react.qubitpi.org/
   - name: Cypress
