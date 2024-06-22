@@ -17,6 +17,7 @@ sites:
     icon: https://neo4j.com/wp-content/themes/neo4jweb/favicon.ico
   - name: Neo4j Movies Graph Example
     url: https://neo4j-graph-examples-movies.qubitpi.org/neo4j-graph-examples-movie/1/movies/
+    icon: https://neo4j.com/wp-content/themes/neo4jweb/favicon.ico
   - name: React
     url: https://react.qubitpi.org/
   - name: Cypress
