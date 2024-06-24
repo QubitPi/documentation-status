@@ -38,6 +38,8 @@ sites:
     url: https://logto.qubitpi.org/
   - name: GraphQL Java
     url: https://graphql-java.qubitpi.org/
+  - name: Screwdriver CD Homepage
+    url: https://screwdriver.qubitpi.org/
   - name: Screwdriver CD Documentations
     url: https://screwdriver-docs.qubitpi.org/
 
