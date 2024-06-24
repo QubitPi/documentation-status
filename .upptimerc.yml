@@ -40,6 +40,7 @@ sites:
     url: https://graphql-java.qubitpi.org/
   - name: Screwdriver CD Homepage
     url: https://screwdriver.qubitpi.org/
+    icon: https://screwdriver.qubitpi.org/brand/LOGOS/favicons/favicon.ico
   - name: Screwdriver CD Documentations
     url: https://screwdriver-docs.qubitpi.org/
 
