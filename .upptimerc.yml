@@ -8,6 +8,8 @@ sites:
     url: https://mlflow.qubitpi.org/
   - name: Jupyter
     url: https://jupyter.qubitpi.org/
+  - name: Jupyter Docs
+    url: https://jupyter-docs.qubitpi.org
   - name: hashicorp-aws.com
     url: https://hashicorp-aws.com/
   - name: DockOvpn
