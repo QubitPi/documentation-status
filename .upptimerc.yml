@@ -40,6 +40,8 @@ sites:
     url: https://inversify.qubitpi.org/
   - name: Logto
     url: https://logto.qubitpi.org/
+  - name: JPA Specification
+    url: https://jpa.qubitpi.org/
   - name: GraphQL Java
     url: https://graphql-java.qubitpi.org/
   - name: Screwdriver CD Homepage
