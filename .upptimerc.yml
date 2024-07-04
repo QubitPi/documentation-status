@@ -6,6 +6,8 @@ sites:
     url: https://docs.lamassu.dev/en/latest/
   - name: MLflow
     url: https://mlflow.qubitpi.org/
+  - name: OpenAI Spinning Up in Deep RL
+    url: https://open-ai-spinningup.qubitpi.org
   - name: Google Flax
     url: https://google-flax.qubitpi.org/
   - name: Google JAX
