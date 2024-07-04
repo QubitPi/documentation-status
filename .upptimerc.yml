@@ -6,6 +6,10 @@ sites:
     url: https://docs.lamassu.dev/en/latest/
   - name: MLflow
     url: https://mlflow.qubitpi.org/
+  - name: Google Flax
+    url: https://google-flax.qubitpi.org/
+  - name: Google JAX
+    url: https://google-jax.qubitpi.org/
   - name: Jupyter
     url: https://jupyter.qubitpi.org/
   - name: Jupyter Docs
