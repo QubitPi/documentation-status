@@ -152,8 +152,8 @@
     "slug": "screwdriver-cd-python-sdk",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 145,
@@ -162,7 +162,7 @@
     "timeMonth": 153,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2024-07-04": 0
+      "2024-07-04": 1
     }
   },
   {
