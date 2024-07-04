@@ -19,7 +19,7 @@ sites:
   - name: DockOvpn
     url: https://dockovpn.qubitpi.org/
   - name: Screwdriver CD Python SDK
-    url: https://screwdriver-cd-python-sdk.readthedocs.io/en/latest/
+    url: https://screwdriver-cd-python-sdk.qubitpi.org
   - name: Neo4j Browser
     url: https://neo4j-browser.qubitpi.org/
     icon: https://neo4j.com/wp-content/themes/neo4jweb/favicon.ico
