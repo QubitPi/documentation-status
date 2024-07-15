@@ -18,6 +18,8 @@ sites:
     url: https://jupyter-docs.qubitpi.org
   - name: hashicorp-aws.com
     url: https://hashicorp-aws.com/
+  - name: Stuyding AWS Cloud
+    url: https://qubitpi.gitbook.io/learn-cantrill-io-labs
   - name: DockOvpn
     url: https://dockovpn.qubitpi.org/
   - name: Screwdriver CD Python SDK
