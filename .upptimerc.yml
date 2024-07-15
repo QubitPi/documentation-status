@@ -20,6 +20,7 @@ sites:
     url: https://hashicorp-aws.com/
   - name: Stuyding AWS Cloud
     url: https://qubitpi.gitbook.io/learn-cantrill-io-labs
+    icon: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/320px-Amazon_Web_Services_Logo.svg.png
   - name: DockOvpn
     url: https://dockovpn.qubitpi.org/
   - name: Screwdriver CD Python SDK
