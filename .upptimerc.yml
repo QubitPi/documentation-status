@@ -23,6 +23,8 @@ sites:
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/320px-Amazon_Web_Services_Logo.svg.png
   - name: DockOvpn
     url: https://dockovpn.qubitpi.org/
+  - name: linuxserver.io
+    url: https://linuxserver.qubitpi.org/
   - name: LinuxServer Documentations
     url: https://linuxserver-docs.qubitpi.org/
   - name: Screwdriver CD Python SDK
