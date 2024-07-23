@@ -64,6 +64,8 @@ sites:
     url: https://jpa.qubitpi.org/
   - name: GraphQL Java
     url: https://graphql-java.qubitpi.org/
+  - name: Git
+    url: https://git.qubitpi.org/
 
 status-website:
   cname: status.qubitpi.org
