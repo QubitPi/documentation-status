@@ -29,6 +29,8 @@ sites:
     url: https://linuxserver-docs.qubitpi.org/
   - name: Docker Documentations
     url: https://docker.qubitpi.org/
+  - name: CNCF Distribution
+    url: https://distribution.qubitpi.org/
   - name: Screwdriver CD Homepage
     url: https://screwdriver.qubitpi.org/
     icon: https://screwdriver.qubitpi.org/brand/LOGOS/favicons/favicon.ico
