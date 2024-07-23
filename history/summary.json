@@ -236,6 +236,24 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "CNCF Distribution",
+    "url": "https://distribution.qubitpi.org/",
+    "icon": "https://icons.duckduckgo.com/ip3/distribution.qubitpi.org.ico",
+    "slug": "cncf-distribution",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 45,
+    "timeDay": 45,
+    "timeWeek": 45,
+    "timeMonth": 45,
+    "timeYear": 45,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Screwdriver CD Homepage",
     "url": "https://screwdriver.qubitpi.org/",
     "icon": "https://screwdriver.qubitpi.org/brand/LOGOS/favicons/favicon.ico",
