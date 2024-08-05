@@ -16,6 +16,8 @@ sites:
     url: https://jupyter.qubitpi.org/
   - name: Jupyter Docs
     url: https://jupyter-docs.qubitpi.org
+  - name: Jupyter Notebook Docs
+    url: https://jupyter-notebook-docs.qubitpi.org/
   - name: scikit-learn
     url: https://scikit-learn.qubitpi.org/
   - name: pandas
