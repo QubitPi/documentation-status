@@ -22,6 +22,8 @@ sites:
     url: https://scikit-learn.qubitpi.org/
   - name: pandas
     url: https://pandas.qubitpi.org/
+  - name: numpy
+    url: https://numpy.qubitpi.org/
   - name: hashicorp-aws.com
     url: https://hashicorp-aws.com/
   - name: OpenStack Nova
